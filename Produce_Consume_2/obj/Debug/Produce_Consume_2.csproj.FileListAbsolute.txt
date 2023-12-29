@@ -1,0 +1,7 @@
+C:\Users\BIAdmin\source\repos\Produce_Consume_2\Produce_Consume_2\bin\Debug\Produce_Consume_2.exe.config
+C:\Users\BIAdmin\source\repos\Produce_Consume_2\Produce_Consume_2\bin\Debug\Produce_Consume_2.exe
+C:\Users\BIAdmin\source\repos\Produce_Consume_2\Produce_Consume_2\bin\Debug\Produce_Consume_2.pdb
+C:\Users\BIAdmin\source\repos\Produce_Consume_2\Produce_Consume_2\obj\Debug\Produce_Consume_2.csproj.AssemblyReference.cache
+C:\Users\BIAdmin\source\repos\Produce_Consume_2\Produce_Consume_2\obj\Debug\Produce_Consume_2.csproj.CoreCompileInputs.cache
+C:\Users\BIAdmin\source\repos\Produce_Consume_2\Produce_Consume_2\obj\Debug\Produce_Consume_2.exe
+C:\Users\BIAdmin\source\repos\Produce_Consume_2\Produce_Consume_2\obj\Debug\Produce_Consume_2.pdb
